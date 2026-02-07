@@ -27,7 +27,9 @@ for group,condition in cluster.items():
 ```
 ### Output:
 <img width="1130" height="821" alt="image" src="https://github.com/user-attachments/assets/c56c1a18-0ae4-4417-b94b-dbff55db081f" />
+
 ### Visualization:
+
 ```
 import matplotlib.pyplot as plt
 plt.figure(figsize=(8,6))
@@ -37,6 +39,7 @@ plt.ylabel('Number of Visitors')
 plt.title('Visitors Distribution Across Age Groups')
 plt.show()
 ```
+
 ### Output:
 <img width="1320" height="850" alt="image" src="https://github.com/user-attachments/assets/55e4d3d9-fde5-4f32-9788-c62f130bf312" />
 
